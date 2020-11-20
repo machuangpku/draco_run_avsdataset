@@ -1,0 +1,1 @@
+C1-limitlossyG-lossyA-ai_r3_stanford_area_4_vox20_dec 0 41833248 41833248 1165727920 79029.0 8371.0 0.0 0.0 0.0 0.0 0.0 0.0 

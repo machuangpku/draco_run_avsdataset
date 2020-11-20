@@ -1,0 +1,1 @@
+stanford_area_2_vox20 0 47062018 47062018 9851536528 10990.0 5157.0 inf inf inf inf inf 0.0 

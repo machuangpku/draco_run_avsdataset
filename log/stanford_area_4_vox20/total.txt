@@ -1,0 +1,1 @@
+stanford_area_4_vox20 0 43399207 43399207 9081367480 10291.0 4718.0 inf inf inf inf inf 0.0 

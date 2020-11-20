@@ -1,0 +1,1 @@
+C1-limitlossyG-lossyA-ai_r4_intersection2_1mm_dec 0 3366344 3366344 83868328 0 0 70.2084 65.46 0.0 0.0 0.0 34.8099 

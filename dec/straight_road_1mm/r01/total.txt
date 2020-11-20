@@ -1,0 +1,1 @@
+C1-limitlossyG-lossyA-ai_r1_straight_road_1mm_dec 0 77951 77951 3137992 0 0 45.6038 41.4002 0.0 0.0 0.0 28.6419 

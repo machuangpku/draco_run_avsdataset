@@ -1,0 +1,1 @@
+C1-limitlossyG-lossyA-ai_r2_double_T_section_1mm_dec 0 562159 562159 19525424 0 0 52.195 47.4208 0.0 0.0 0.0 28.439 

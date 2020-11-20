@@ -1,0 +1,1 @@
+C1-limitlossyG-lossyA-ai_r5_intersection1_1mm_dec 0 9030157 9030157 207134040 0 0 82.1396 77.5012 0.0 0.0 0.0 47.8016 
